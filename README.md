@@ -5,7 +5,6 @@
 - 📫 How to reach me E-mail lamaa6703@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Uploading image.png…]()
 
 <!---
 Amrit-Moktan/Amrit-Moktan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
